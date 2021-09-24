@@ -1,0 +1,4 @@
+baseURL = 'http://acornies.io/'
+languageCode = 'en-us'
+title = 'Andrew Cornies'
+theme = "ananke"
